@@ -1,0 +1,6 @@
+AuthType CAS 
+
+require user dbosina
+require user rflores4
+require user ckeegansutanto
+require user ntami
